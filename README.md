@@ -7,7 +7,7 @@
   </h1>
 </a>
 
-# dice
+# Xylophone
 
 Xylophone mobile app using flutter.
 
