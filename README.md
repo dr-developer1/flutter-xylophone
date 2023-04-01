@@ -11,6 +11,15 @@
 
 Xylophone mobile app using flutter.
 
+## Installation
+```shell
+A connected device is required of course😀
+```
+```bash
+pub get
+flutter run
+```
+
 ## About project
 
 ![Alt text](/assets/images/app.png?raw=true "About")
