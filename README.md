@@ -16,8 +16,8 @@ Xylophone mobile app using flutter.
 A connected device is required of course😀
 ```
 ```bash
-pub get
-flutter run
+$ flutter pub get
+$ flutter run
 ```
 
 ## About project
