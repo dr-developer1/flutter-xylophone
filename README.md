@@ -13,4 +13,4 @@ Xylophone mobile app using flutter.
 
 ## About project
 
-[//]: # (![Alt text]&#40;/assets/images/about.png?raw=true "About"&#41;)
+![Alt text](/assets/images/app.png?raw=true "About")
