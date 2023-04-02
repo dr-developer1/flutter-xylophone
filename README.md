@@ -13,12 +13,16 @@ Xylophone mobile app using flutter.
 
 ## Installation
 ```shell
+Flutter is installed and configured on your machine.
 A connected device is required of course😀
 ```
 ```bash
 $ flutter pub get
 $ flutter run
 ```
+
+## APK
+[Download](https://www.mediafire.com/file/dtsmkgiiw7ppihz/app-release.apk/file)
 
 ## About project
 
