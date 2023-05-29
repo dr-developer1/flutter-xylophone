@@ -14,11 +14,10 @@ class XylophoneApp extends StatelessWidget {
     player.play(AssetSource('sounds/note$noteNumber.wav'));
   }
 
-  TextButton buildKey(
-      {required Color color,
-      required int soundNumber,
-      required double height,
-      required String noteName}) {
+  TextButton buildKey({required Color color,
+    required int soundNumber,
+    required double height,
+    required String noteName}) {
     return TextButton(
       style: TextButton.styleFrom(
         fixedSize: Size(100, height),
@@ -85,7 +84,6 @@ class XylophoneApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
     // Set landscape orientation
     SystemChrome.setPreferredOrientations([
       DeviceOrientation.landscapeLeft,
